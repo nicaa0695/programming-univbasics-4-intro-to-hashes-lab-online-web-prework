@@ -75,3 +75,7 @@ describe "updating data in a hash" do
   end
 
 end
+
+def new_hash
+  hash= Hash.new
+end
