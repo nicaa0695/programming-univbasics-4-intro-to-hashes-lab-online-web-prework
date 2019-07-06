@@ -3,7 +3,7 @@ def new_hash
 end
 
 def new_hash
-  hash= Hash.new
+  
 end
 def my_hash
   hash = {name: "nica"}
