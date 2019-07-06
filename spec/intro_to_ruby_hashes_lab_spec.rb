@@ -82,3 +82,6 @@ end
 def my_hash
   hash = {name: "nica"}
 end 
+def pioneer
+  hash = :name => 'Grace Hopper'
+end
